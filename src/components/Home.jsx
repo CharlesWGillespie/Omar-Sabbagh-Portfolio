@@ -1,7 +1,10 @@
 export default function HomeContent() {
     return (
         <div>
-            <h1>Home Page</h1>
+            <p>Hi There! My Name is</p>
+            <h1>Omar Sabbagh</h1>
+            <p>I am a Python Devloper</p>
+
         </div>
     )
 }
